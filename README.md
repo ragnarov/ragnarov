@@ -18,4 +18,4 @@ I am `[-_-]`\
 I am currently doing nothing.\
 I do not want to do anything.\
 Thanks for reading.\
-But you wasted your time, 😈
+But you wasted your time, :smiling_imp:
