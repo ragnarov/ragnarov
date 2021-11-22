@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 I am `[-_-]`\
 I am currently doing nothing.\
-I do not want to do anything.\
+I do not want to do anything soon.\
 Thanks for reading.\
-But you wasted your time, :smiling_imp:
+Maybe look at [oc](github.com/ragnarov/oc).
