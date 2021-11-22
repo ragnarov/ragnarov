@@ -18,4 +18,4 @@ I am `[-_-]`\
 I am currently doing nothing.\
 I do not want to do anything soon.\
 Thanks for reading.\
-Maybe look at [oc](github.com/ragnarov/oc).
+Maybe look at [oc](https://github.com/ragnarov/oc).
