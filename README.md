@@ -1,4 +1,4 @@
-### Heya
+### Greetings traveler
 
 <!--
 **ragnarov/ragnarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am `[-_-]`\
 I am currently doing nothing.\
 I do not want to do anything soon.\
 Thanks for reading.\
 Maybe look at [oc](https://github.com/ragnarov/oc).
+
+You may find me at `libera`, nick is `[-_-]` !
